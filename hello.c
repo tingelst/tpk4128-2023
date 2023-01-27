@@ -1,9 +1,10 @@
 #include "stdio.h"
 
+
 int main() {
 
   int a = 1;
-  int b;
+  int b = 2;
 
   float c = 0.5;
 
